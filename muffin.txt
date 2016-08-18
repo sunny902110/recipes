@@ -6,3 +6,5 @@ Ingredients
  * 2 a can of potato
  * 3 flour
  * 4 sugar
+ * 5 salt
+
